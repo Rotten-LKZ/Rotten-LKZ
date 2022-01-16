@@ -1,4 +1,4 @@
-### Hi, I'm a high school student in Shenzhen, Guangdong Province, China. 👋
+## Hi, I'm a high school student in Shenzhen, Guangdong Province, China. 👋
 
 [![Rotten-LKZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rotten-LKZ)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-What I gonna do next?
+### What I gonna do next?
 
 - [ ] A novel-reading software
 - [ ] Fix the project [subtitle-parser](https://github.com/Rotten-LKZ/subtitle-parser)'s bugs
