@@ -17,6 +17,4 @@
 
 ### What I gonna do next?
 
-- [ ] A novel-reading software
-- [ ] Fix the project [subtitle-parser](https://github.com/Rotten-LKZ/subtitle-parser)'s bugs
-- [ ] Complete the TODO list of [article-image-generator](https://github.com/Rotten-LKZ/article-image-generator)
+- [ ] A self-hosted gallery project
