@@ -3,7 +3,7 @@
 [![Rotten-LKZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rotten-LKZ)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently making a self-hosted gallery. (Perhaps I can complete it.)
-- 🌱 I’m currently learning Making Games & Drawing & Composing Music. I wanna learn everything I am fond on and interested in.
+- 🌱 I’m currently learning Making Games & Drawing & Composing Music. I wanna learn everything I am fond of and interested in.
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
