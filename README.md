@@ -1,4 +1,4 @@
-## Good morning. Good afternoon. Good evening. Good night. I'm RotCool (also Rotten-LKZ or Rotten_LKZ)
+## Good morning, afternoon, evening and night. I'm RotCool (also Rotten-(_)LKZ).
 <p align="center">
   <img src="https://fastly.jsdelivr.net/gh/Rotten-LKZ/cdn@main/images/ACGN/pm-ayla-3-141972.png" alt="banner">
   <i>Isla from <a href="https://en.wikipedia.org/wiki/Plastic_Memories" target="_blank">Plastic Memories</a></i>
