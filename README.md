@@ -4,7 +4,7 @@
   <i>Isla from <a href="https://en.wikipedia.org/wiki/Plastic_Memories" target="_blank">Plastic Memories</a></i>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rotten-LKZ&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/LoTwT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotten-LKZ&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rotten-LKZ&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotten-LKZ&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## My favourite
